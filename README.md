@@ -1,13 +1,13 @@
 # Theme-Switcher
 Tea Linux Theme Switcher 
 
-# How To Install
+## How To Install
 
-# Download the Package 
+###### Download the Package 
 $ cd Theme-Switcher </br>
 $ ./install
 
-# or clone it
+######  or clone it
 $ git clone https://github.com/Litle-Panda/Theme-Switcher.git </br>
 $ cd Theme-Switcher </br>
 $ ./install
