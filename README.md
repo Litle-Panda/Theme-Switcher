@@ -1,4 +1,4 @@
-# Theme-Switcher
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)# Theme-Switcher
 Tea Linux Theme Switcher 
 
 ## How To Install
@@ -12,3 +12,4 @@ Tea Linux Theme Switcher
 * $ cd Theme-Switcher </br>
 * $ ./install
 
+![This is the Result](https://github.com/Litle-Panda/Theme-Switcher/blob/main/image/ss.png)
