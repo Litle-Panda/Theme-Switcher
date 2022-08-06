@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "installing theme-switcher"
+cp -avr $PWD/tealinux /usr/share/
+cp -avr $PWD/icon/* /usr/share/pixmaps/
+cp -avr $PWD/theme-switcher.desktop /etc/xdg/autostart/
+chmod 644 /etc/xdg/autostart/theme-switcher.desktop
+
+

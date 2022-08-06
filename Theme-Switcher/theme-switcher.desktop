@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Theme-Switcher
+Comment=Switch to Dark or Light Mode
+Exec=/usr/share/tealinux/ThemeSwitcher/tray/theme-switcher-tray
+Icon=switcher-light
+Path=~/.config
+Terminal=false
+StartupNotify=false

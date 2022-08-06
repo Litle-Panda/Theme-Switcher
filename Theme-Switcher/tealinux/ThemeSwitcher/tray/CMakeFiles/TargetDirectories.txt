@@ -1,0 +1,3 @@
+/usr/share/tealinux/ThemeSwitcher/tray/CMakeFiles/rebuild_cache.dir
+/usr/share/tealinux/ThemeSwitcher/tray/CMakeFiles/theme-switcher-tray.dir
+/usr/share/tealinux/ThemeSwitcher/tray/CMakeFiles/edit_cache.dir
