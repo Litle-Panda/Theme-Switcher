@@ -12,4 +12,5 @@ Tea Linux Theme Switcher
 * $ cd Theme-Switcher </br>
 * $ ./install
 
+###### Preview
 ![ View Result ](https://github.com/Litle-Panda/Theme-Switcher/blob/main/image/ss.png)
